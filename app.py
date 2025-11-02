@@ -84,7 +84,7 @@ elif page == "About Project":
 elif page == "Developer Info":
     st.header("👨‍💻 Developer Information")
     st.write("""
-    **Project by:** Hitesh Kharyal  
+    **Project by:** Hitesh Kumar  
     **Technology Used:** Python, Streamlit, Scikit-Learn  
     **IDE:** PyCharm  
     **Dataset:** Kaggle – Default of Credit Card Clients  
@@ -95,7 +95,7 @@ st.markdown(
     """
     <br><hr>
     <div style='text-align:center;'>
-        <p style='color:gray;'>© 2025 Credit Card Default Detection | Developed in Python using Streamlit</p>
+        <p style='color:gray;'> Credit Card Default Detection |</p>
     </div>
     """,
     unsafe_allow_html=True
